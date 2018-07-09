@@ -9,4 +9,4 @@ date = gets.chomp
 puts "What time is the party?"
 time = gets.chomp
 puts "Who is the host?"
-host = gets.chomp
+host_name = gets.chomp
