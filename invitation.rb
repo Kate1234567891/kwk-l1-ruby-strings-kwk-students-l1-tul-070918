@@ -10,7 +10,8 @@ puts "What time is the party?"
 time = gets.chomp
 puts "What is the name of the host?"
 host_name = gets.chomp
-"Dear #{guest_name},
+
+puts "Dear #{guest_name},
 You are cordially invited to #{party_name} on #{date} at #{time}. Please RSVP no later than Octob4r 30.
 Sincerely, 
 #{host_name}"
