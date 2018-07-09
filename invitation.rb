@@ -2,3 +2,11 @@
 puts "Hi, you've been invited to a party! What is your name?"
 # Try starting out with puts'ing a string.
 name = gets.chomp
+puts "What is the party called?"
+party = gets.chomp
+puts "When is the date?"
+date = gets.chomp
+puts "What time is the party?"
+time = gets.chomp
+puts "Who is the host?"
+hiost = gets.chomp
